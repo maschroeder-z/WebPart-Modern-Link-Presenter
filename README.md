@@ -2,10 +2,13 @@
 ## Summary
 
 A modern, customizable web part for managing and displaying links in various layouts in SharePoint and Teams. Modern Link Presenter is a flexible SharePoint Framework (SPFx) web part that allows users to manage and present collections of links in various modern layouts. Features include: configurable link properties (title, URL, icon, description, summary, color, target, display format), multiple output formats (simple links, links with icons, inline tiles, and rich tile layouts), individual color and display customization per link, search and filter functionality, and support for opening links in new tabs, within the same tab, or in a modal dialog. The tile layout offers additional customization such as tile size, mouseover effects, and button text. The web part is fully localizable, supports accessibility, and is ideal for creating modern dashboards, resource panels, or curated link collections in SharePoint Online and Microsoft Teams.
+
 ![UI of the links](https://www.dev-sky.net/img/apps/modernlink-01.png)
+
 *UI of the links*
 
 ![Open detail page in dialog](https://www.dev-sky.net/img/apps/modernlink-02.png)
+
 *Open detail page in dialog*
 
 
@@ -24,7 +27,7 @@ A modern, customizable web part for managing and displaying links in various lay
 
 ## Prerequisites
 
-> You just need a SharePoint list and a view for field order configuration.
+> Install the App and jst configure the links within the WebPart properties.
 
 ## Solution
 
