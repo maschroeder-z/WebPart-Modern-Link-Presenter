@@ -76,7 +76,7 @@ A modern, customizable web part for managing and displaying links in various lay
   - **npm install**
   - **gulp serve**
 
-> Check your currenr Node version and installed SPFx-Framework version.
+> Check your current Node version and installed SPFx-Framework version.
 
 ## Features
 - Automatic creation of a list of stored links.
